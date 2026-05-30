@@ -28,11 +28,10 @@ Highly versatile tech professional bridging the gap between clean, scalable code
 
 
 | Category | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io) ![React](https://img.shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![TailwindCSS](https://shields.io) |
-| **Backend & DB** | ![Node.js](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io) |
-| **Management & Ops** | ![Jira](https://shields.io) ![Trello](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) |
-
+|-----------|---------------------|
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Management & Ops** | ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 ---
 
 ### 📊 GitHub Analytics
