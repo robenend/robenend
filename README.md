@@ -45,7 +45,7 @@ Highly versatile tech professional bridging the gap between clean, scalable code
 ---
 
 ### 🤝 Connect With Me
-* 💼 **LinkedIn:** [Robera Endale / Link Here](https://linkedin.com/in/robera-endale)
+* 💼 **LinkedIn:** [Robera Endale](https://linkedin.com/in/robera-endale)
 * 📧 **Email:** [roberaendale2@gmail.com](mailto:roberaendale2@gmail.com)
 
 ---
