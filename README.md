@@ -29,7 +29,7 @@ Highly versatile tech professional bridging the gap between clean, scalable code
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://shields.io) ![React](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![TailwindCSS](https://shields.io) |
+| **Frontend** | ![Next.js](https://img.shields.io) ![React](https://img.shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![TailwindCSS](https://shields.io) |
 | **Backend & DB** | ![Node.js](https://shields.io) ![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io) |
 | **Management & Ops** | ![Jira](https://shields.io) ![Trello](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) |
 
