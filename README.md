@@ -45,8 +45,8 @@ Highly versatile tech professional bridging the gap between clean, scalable code
 ---
 
 ### 🤝 Connect With Me
-* 💼 **LinkedIn:** [Your Name / Link Here](https://linkedin.com)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+* 💼 **LinkedIn:** [Robera Endale / Link Here](https://linkedin.com/in/robera-endale)
+* 📧 **Email:** [roberaendale2@gmail.com](mailto:roberaendale2@gmail.com)
 
 ---
 <p align="center">⚡ Driving technical execution with strategic precision ⚡</p>
