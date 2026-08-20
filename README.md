@@ -1,6 +1,6 @@
 # Hi there, I'm Robera Endale! 👋💻📈
 
-### Lead Software Engineer | Full-Stack Engineer | Project Manager
+### Full-Stack Engineer
 
 Highly versatile tech professional bridging the gap between clean, scalable code and high-performing, agile development teams.
 
